@@ -6,7 +6,7 @@
 	</a>
 	<a href="GSMF/Proyecto_ESI_2022.pdf">Letra de Proyecto de Fin de Curso</a>
 	<br>
-	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador Finalizado</a>
+	<a href="GSMF/GSMFDocumentoIntegradorFinalizado.pdf">Documento Integrador Finalizado</a>
 	<br>
 	<br>
 </div>
@@ -19,7 +19,7 @@ Actualmente estamos estudiando en la [Escuela Superior de Informática](https://
 
 Nos gusta la tecnología aplicada y nos caracterizamos por nuestro orden y diseño. (O al menos eso nos dicen!)
 
-Puedes encontrarnos en:
+También puedes encontrarnos en:
 * [Instagram](https://www.instagram.com/GSMFUruguay/)
 
 Saludos!
