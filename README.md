@@ -4,7 +4,9 @@
 		<img src="GSMF/header.svg" width="800" height="200" alt="Portada GSMF">
 		<h3>• GRUPO GSMF •</h3>
 	</a>
-	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador</a>
+	<a href="Proyecto-GSMF/GSMF/Proyecto_ESI_2022.pdf">Letra de Proyecto de Fin de Curso</a>
+	<br>
+	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador Finalizado</a>
 	<br>
 	<br>
 </div>
@@ -19,7 +21,6 @@ Nos gusta la tecnología aplicada y nos caracterizamos por nuestro orden y dise�
 
 Puedes encontrarnos en:
 * [Instagram](https://www.instagram.com/GSMFUruguay/)
-* [Facebook](https://www.facebook.com/GSMF)
 
 Saludos!
 
