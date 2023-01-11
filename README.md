@@ -4,7 +4,7 @@
 		<img src="GSMF/header.svg" width="800" height="200" alt="Portada GSMF">
 		<h3>• GRUPO GSMF •</h3>
 	</a>
-	<a href="Proyecto-GSMF/GSMF/Proyecto_ESI_2022.pdf">Letra de Proyecto de Fin de Curso</a>
+	<a href="GSMF/Proyecto_ESI_2022.pdf">Letra de Proyecto de Fin de Curso</a>
 	<br>
 	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador Finalizado</a>
 	<br>
