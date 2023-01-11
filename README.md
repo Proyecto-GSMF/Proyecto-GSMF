@@ -7,6 +7,8 @@
 	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador</a>
 	<br>
 	<br>
+</div>
+
 ### Hola! Somos [@GSMF](https://github.com/Proyecto-GSMF) :wave:
 
 Somos un grupo de jóvenes multidisciplinarios de Uruguay. 🇺🇾
@@ -20,7 +22,5 @@ Puedes encontrarnos en:
 * [Facebook](https://www.facebook.com/GSMF)
 
 Saludos!
-</div>
-
 
 
