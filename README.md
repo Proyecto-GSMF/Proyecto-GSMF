@@ -1,3 +1,12 @@
+<div align="center">
+	<br>
+	<a>
+		<img src="GSMF/header.svg" width="800" height="200" alt="Portada GSMF">
+		<h3>• GRUPO GSMF •</h3>
+	</a>
+	<a href="https://docs.google.com/document/d/1WRAtcN890KaOSjNVcr494mbKyliOuyUlLT8mZFnyuLc/edit?usp=sharing">Documento Integrador</a>
+	<br>
+	<br>
 ### Hola! Somos [@GSMF](https://github.com/Proyecto-GSMF) :wave:
 
 Somos un grupo de jóvenes multidisciplinarios de Uruguay. 🇺🇾
@@ -11,3 +20,7 @@ Puedes encontrarnos en:
 * [Facebook](https://www.facebook.com/GSMF)
 
 Saludos!
+</div>
+
+
+
